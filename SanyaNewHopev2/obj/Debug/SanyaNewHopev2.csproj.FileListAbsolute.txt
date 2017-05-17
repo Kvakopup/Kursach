@@ -1,0 +1,83 @@
+c:\users\andrey\documents\visual studio 2015\Projects\SanyaNewHopev2\SanyaNewHopev2\bin\Debug\SanyaNewHopev2.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\SanyaNewHopev2\SanyaNewHopev2\bin\Debug\SanyaNewHopev2.exe
+c:\users\andrey\documents\visual studio 2015\Projects\SanyaNewHopev2\SanyaNewHopev2\bin\Debug\SanyaNewHopev2.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2015\Projects\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Form1.resources
+c:\users\andrey\documents\visual studio 2015\Projects\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Properties.Resources.resources
+c:\users\andrey\documents\visual studio 2015\Projects\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.csproj.GenerateResource.Cache
+c:\users\andrey\documents\visual studio 2015\Projects\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.exe
+c:\users\andrey\documents\visual studio 2015\Projects\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.pdb
+F:\SanyaNewHopev2\SanyaNewHopev2\bin\Debug\SanyaNewHopev2.exe.config
+F:\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.exe
+F:\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.pdb
+C:\Users\Олександр\Desktop\SanyaNewHopev2\SanyaNewHopev2\bin\Debug\SanyaNewHopev2.exe.config
+C:\Users\Олександр\Desktop\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.exe
+C:\Users\Олександр\Desktop\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.pdb
+C:\Users\Олександр\Desktop\SanyaNewHopev2\SanyaNewHopev2\bin\Debug\SanyaNewHopev2.exe
+C:\Users\Олександр\Desktop\SanyaNewHopev2\SanyaNewHopev2\bin\Debug\SanyaNewHopev2.pdb
+C:\Users\Олександр\Desktop\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.csprojResolveAssemblyReference.cache
+C:\Users\Олександр\Desktop\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Form1.resources
+C:\Users\Олександр\Desktop\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Properties.Resources.resources
+C:\Users\Олександр\Desktop\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.csproj.GenerateResource.Cache
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\SanyaNewHopev2\SanyaNewHopev2\bin\Debug\SanyaNewHopev2.exe.config
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.exe
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.pdb
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\SanyaNewHopev2\SanyaNewHopev2\bin\Debug\SanyaNewHopev2.exe
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\SanyaNewHopev2\SanyaNewHopev2\bin\Debug\SanyaNewHopev2.pdb
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.csprojResolveAssemblyReference.cache
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Form1.resources
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Properties.Resources.resources
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.csproj.GenerateResource.Cache
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\новый курсач v2 (2 form)\SanyaNewHopev2\SanyaNewHopev2\bin\Debug\SanyaNewHopev2.exe.config
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\новый курсач v2 (2 form)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.exe
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\новый курсач v2 (2 form)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.pdb
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\новый курсач v2 (2 form)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.csprojResolveAssemblyReference.cache
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\новый курсач v2 (2 form)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Editing.resources
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\новый курсач v2 (2 form)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Form1.resources
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\новый курсач v2 (2 form)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Properties.Resources.resources
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\новый курсач v2 (2 form)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.csproj.GenerateResource.Cache
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\новый курсач v2 (2 form)\SanyaNewHopev2\SanyaNewHopev2\bin\Debug\SanyaNewHopev2.exe
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\новый курсач v2 (2 form)\SanyaNewHopev2\SanyaNewHopev2\bin\Debug\SanyaNewHopev2.pdb
+C:\Users\Andrey\AppData\Roaming\Skype\My Skype Received Files\новый курсач v2 (2 form)\новый курсач v2 (2 form)\SanyaNewHopev2\SanyaNewHopev2\bin\Debug\SanyaNewHopev2.exe.config
+C:\Users\Andrey\AppData\Roaming\Skype\My Skype Received Files\новый курсач v2 (2 form)\новый курсач v2 (2 form)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.exe
+C:\Users\Andrey\AppData\Roaming\Skype\My Skype Received Files\новый курсач v2 (2 form)\новый курсач v2 (2 form)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.pdb
+C:\Users\Andrey\AppData\Roaming\Skype\My Skype Received Files\новый курсач v2 (2 form)\новый курсач v2 (2 form)\SanyaNewHopev2\SanyaNewHopev2\bin\Debug\SanyaNewHopev2.exe
+C:\Users\Andrey\AppData\Roaming\Skype\My Skype Received Files\новый курсач v2 (2 form)\новый курсач v2 (2 form)\SanyaNewHopev2\SanyaNewHopev2\bin\Debug\SanyaNewHopev2.pdb
+C:\Users\Andrey\AppData\Roaming\Skype\My Skype Received Files\новый курсач v2 (2 form)\новый курсач v2 (2 form)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\AppData\Roaming\Skype\My Skype Received Files\новый курсач v2 (2 form)\новый курсач v2 (2 form)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Editing.resources
+C:\Users\Andrey\AppData\Roaming\Skype\My Skype Received Files\новый курсач v2 (2 form)\новый курсач v2 (2 form)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Form1.resources
+C:\Users\Andrey\AppData\Roaming\Skype\My Skype Received Files\новый курсач v2 (2 form)\новый курсач v2 (2 form)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Properties.Resources.resources
+C:\Users\Andrey\AppData\Roaming\Skype\My Skype Received Files\новый курсач v2 (2 form)\новый курсач v2 (2 form)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.csproj.GenerateResource.Cache
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v3. (added different features)\SanyaNewHopev2\SanyaNewHopev2\bin\Debug\SanyaNewHopev2.exe.config
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v3. (added different features)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.exe
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v3. (added different features)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.pdb
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v3. (added different features)\SanyaNewHopev2\SanyaNewHopev2\bin\Debug\SanyaNewHopev2.exe
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v3. (added different features)\SanyaNewHopev2\SanyaNewHopev2\bin\Debug\SanyaNewHopev2.pdb
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v3. (added different features)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.csprojResolveAssemblyReference.cache
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v3. (added different features)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Editing.resources
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v3. (added different features)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Form1.resources
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v3. (added different features)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Properties.Resources.resources
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v3. (added different features)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.csproj.GenerateResource.Cache
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v3. (added different features)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Admin.resources
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v4(with editing)\SanyaNewHopev2\SanyaNewHopev2\bin\Debug\SanyaNewHopev2.exe.config
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v4(with editing)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.exe
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v4(with editing)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.pdb
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v4(with editing)\SanyaNewHopev2\SanyaNewHopev2\bin\Debug\SanyaNewHopev2.exe
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v4(with editing)\SanyaNewHopev2\SanyaNewHopev2\bin\Debug\SanyaNewHopev2.pdb
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v4(with editing)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.csprojResolveAssemblyReference.cache
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v4(with editing)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Admin.resources
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v4(with editing)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Editing.resources
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v4(with editing)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Form1.resources
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v4(with editing)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Properties.Resources.resources
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v4(with editing)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.csproj.GenerateResource.Cache
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v5(with all features)\SanyaNewHopev2\SanyaNewHopev2\bin\Debug\SanyaNewHopev2.exe.config
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v5(with all features)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.exe
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v5(with all features)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.pdb
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v5(with all features)\SanyaNewHopev2\SanyaNewHopev2\bin\Debug\SanyaNewHopev2.exe
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v5(with all features)\SanyaNewHopev2\SanyaNewHopev2\bin\Debug\SanyaNewHopev2.pdb
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v5(with all features)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.csprojResolveAssemblyReference.cache
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v5(with all features)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Admin.resources
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v5(with all features)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Editing.resources
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v5(with all features)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Form1.resources
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v5(with all features)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Properties.Resources.resources
+B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v5(with all features)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.csproj.GenerateResource.Cache
