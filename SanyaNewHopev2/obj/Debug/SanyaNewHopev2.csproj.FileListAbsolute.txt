@@ -81,3 +81,14 @@ B:\учёба\Учёба\лабы по програмированию\с#\кур
 B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v5(with all features)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Form1.resources
 B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v5(with all features)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Properties.Resources.resources
 B:\учёба\Учёба\лабы по програмированию\с#\курсач\Новый курсач v5(with all features)\SanyaNewHopev2\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.csproj.GenerateResource.Cache
+B:\kursach\Kursach\SanyaNewHopev2\bin\Debug\SanyaNewHopev2.exe.config
+B:\kursach\Kursach\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.exe
+B:\kursach\Kursach\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.pdb
+B:\kursach\Kursach\SanyaNewHopev2\bin\Debug\SanyaNewHopev2.exe
+B:\kursach\Kursach\SanyaNewHopev2\bin\Debug\SanyaNewHopev2.pdb
+B:\kursach\Kursach\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.csprojResolveAssemblyReference.cache
+B:\kursach\Kursach\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Admin.resources
+B:\kursach\Kursach\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Editing.resources
+B:\kursach\Kursach\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Form1.resources
+B:\kursach\Kursach\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Properties.Resources.resources
+B:\kursach\Kursach\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.csproj.GenerateResource.Cache

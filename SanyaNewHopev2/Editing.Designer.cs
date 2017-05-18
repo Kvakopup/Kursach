@@ -668,7 +668,7 @@
             this.editUniver.FormattingEnabled = true;
             this.editUniver.Location = new System.Drawing.Point(6, 37);
             this.editUniver.Name = "editUniver";
-            this.editUniver.Size = new System.Drawing.Size(79, 24);
+            this.editUniver.Size = new System.Drawing.Size(85, 24);
             this.editUniver.TabIndex = 118;
             this.editUniver.SelectedValueChanged += new System.EventHandler(this.editUniver_SelectedValueChanged);
             this.editUniver.Click += new System.EventHandler(this.editUniver_Click);
@@ -676,10 +676,11 @@
             // editFac
             // 
             this.editFac.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.editFac.DropDownWidth = 220;
             this.editFac.FormattingEnabled = true;
             this.editFac.Location = new System.Drawing.Point(9, 113);
             this.editFac.Name = "editFac";
-            this.editFac.Size = new System.Drawing.Size(79, 24);
+            this.editFac.Size = new System.Drawing.Size(94, 24);
             this.editFac.TabIndex = 119;
             this.editFac.SelectedValueChanged += new System.EventHandler(this.editFac_SelectedValueChanged);
             this.editFac.Click += new System.EventHandler(this.editFac_Click);
@@ -687,10 +688,11 @@
             // editSpec
             // 
             this.editSpec.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.editSpec.DropDownWidth = 220;
             this.editSpec.FormattingEnabled = true;
             this.editSpec.Location = new System.Drawing.Point(7, 192);
             this.editSpec.Name = "editSpec";
-            this.editSpec.Size = new System.Drawing.Size(79, 24);
+            this.editSpec.Size = new System.Drawing.Size(96, 24);
             this.editSpec.TabIndex = 120;
             this.editSpec.SelectedValueChanged += new System.EventHandler(this.editSpec_SelectedValueChanged);
             this.editSpec.Click += new System.EventHandler(this.editSpec_Click);
@@ -706,14 +708,14 @@
             // 
             this.RestoreFac.Location = new System.Drawing.Point(123, 113);
             this.RestoreFac.Name = "RestoreFac";
-            this.RestoreFac.Size = new System.Drawing.Size(125, 22);
+            this.RestoreFac.Size = new System.Drawing.Size(166, 22);
             this.RestoreFac.TabIndex = 122;
             // 
             // restoreSpec
             // 
             this.restoreSpec.Location = new System.Drawing.Point(121, 198);
             this.restoreSpec.Name = "restoreSpec";
-            this.restoreSpec.Size = new System.Drawing.Size(126, 22);
+            this.restoreSpec.Size = new System.Drawing.Size(146, 22);
             this.restoreSpec.TabIndex = 123;
             // 
             // editNumericPay
@@ -1031,7 +1033,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Editing";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Editing";
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();

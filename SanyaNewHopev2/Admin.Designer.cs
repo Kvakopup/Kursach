@@ -49,8 +49,10 @@
             this.Password.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.Password.Location = new System.Drawing.Point(52, 89);
             this.Password.Name = "Password";
+            this.Password.PasswordChar = '*';
             this.Password.Size = new System.Drawing.Size(167, 30);
             this.Password.TabIndex = 1;
+            this.Password.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // label1
             // 
