@@ -798,9 +798,9 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(980, 116);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(35, 17);
+            this.label3.Size = new System.Drawing.Size(36, 17);
             this.label3.TabIndex = 112;
-            this.label3.Text = "ВУЗ";
+            this.label3.Text = "ВНЗ";
             // 
             // Form1
             // 

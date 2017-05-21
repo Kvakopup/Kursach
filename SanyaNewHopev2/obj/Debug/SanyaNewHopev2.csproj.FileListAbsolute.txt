@@ -92,3 +92,14 @@ B:\kursach\Kursach\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Editing.resources
 B:\kursach\Kursach\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Form1.resources
 B:\kursach\Kursach\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Properties.Resources.resources
 B:\kursach\Kursach\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.csproj.GenerateResource.Cache
+B:\kursach\Нова папка\Kursach\SanyaNewHopev2\bin\Debug\SanyaNewHopev2.exe.config
+B:\kursach\Нова папка\Kursach\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.exe
+B:\kursach\Нова папка\Kursach\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.pdb
+B:\kursach\Нова папка\Kursach\SanyaNewHopev2\bin\Debug\SanyaNewHopev2.exe
+B:\kursach\Нова папка\Kursach\SanyaNewHopev2\bin\Debug\SanyaNewHopev2.pdb
+B:\kursach\Нова папка\Kursach\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.csprojResolveAssemblyReference.cache
+B:\kursach\Нова папка\Kursach\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Admin.resources
+B:\kursach\Нова папка\Kursach\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Editing.resources
+B:\kursach\Нова папка\Kursach\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Form1.resources
+B:\kursach\Нова папка\Kursach\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.Properties.Resources.resources
+B:\kursach\Нова папка\Kursach\SanyaNewHopev2\obj\Debug\SanyaNewHopev2.csproj.GenerateResource.Cache
