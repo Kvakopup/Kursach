@@ -30,10 +30,7 @@ namespace SanyaNewHopev2
         
         private void Form1_Load(object sender, EventArgs e)
         {
-            koef1.Controls[0].Visible = false;
-            koef2.Controls[0].Visible = false;
-            koef3.Controls[0].Visible = false;
-            AtestatKoef.Controls[0].Visible = false;
+        
 
             UpdateUnivers();
             UpdateSpecSearch();
@@ -89,10 +86,10 @@ namespace SanyaNewHopev2
             ZNO2Mark.Value = 100;
             ZNO3Mark.Value = 100;
             ZNO4Mark.Value = 100;
-            koef1.Value = 0;
-            koef2.Value = 0;
-            koef3.Value = 0;
-            AtestatKoef.Value = 0;
+            koef1.Text = "0";
+            koef2.Text = "0";
+            koef3.Text = "0";
+            AtestatKoef.Text = "0";
             Verdict.BackColor = Color.DarkSeaGreen;
             Verdict.Text = null;
             rezultbox.Clear();
@@ -184,17 +181,18 @@ namespace SanyaNewHopev2
         private void FillTextBoxesForCalc()
         {
             ZNO1Name.Text = currentSpec.Lzno[0].NAME;
-            koef1.Value = (decimal)currentSpec.Lzno[0].KOOF;
+          
+            koef1.Text = Convert.ToString(currentSpec.Lzno[0].KOOF);
 
             ZNO2Name.Items.Add(currentSpec.Lzno[4].NAME);
             ZNO2Name.Items.Add(currentSpec.Lzno[2].NAME);
-            koef2.Value = (decimal)currentSpec.Lzno[1].KOOF;
+            koef2.Text = Convert.ToString(currentSpec.Lzno[1].KOOF);
 
             ZNO3Name.Text = currentSpec.Lzno[1].NAME;
-            koef3.Value = (decimal)currentSpec.Lzno[2].KOOF;
+            koef3.Text = Convert.ToString(currentSpec.Lzno[2].KOOF);
 
             AtestatInput.Text = currentSpec.Lzno[3].NAME;
-            AtestatKoef.Value = (decimal)currentSpec.Lzno[3].KOOF;
+            AtestatKoef.Text = Convert.ToString(currentSpec.Lzno[3].KOOF);
 
         }
 
@@ -211,13 +209,16 @@ namespace SanyaNewHopev2
 
         }
         int i = 1;
+        
         private void getRezult_Click(object sender, EventArgs e)
         {
 
-
+           
             
+           
 
-            decimal rezult = (ZNO1Mark.Value * koef1.Value) + (ZNO2Mark.Value * koef2.Value) + (ZNO3Mark.Value * koef3.Value) + (ZNO4Mark.Value * AtestatKoef.Value);
+          decimal rezult = (ZNO1Mark.Value * Convert.ToDecimal(koef1.Text)) + (ZNO2Mark.Value * Convert.ToDecimal(koef2.Text)) + (ZNO3Mark.Value * Convert.ToDecimal(koef3.Text)) + (ZNO4Mark.Value * Convert.ToDecimal(AtestatKoef.Text));
+           
             rezultbox.Text = Math.Round(rezult, 0).ToString();
 
             if (rezult < currentSpec.Minbal)
@@ -250,22 +251,39 @@ namespace SanyaNewHopev2
                                     if (spec.Name == ChooseSpec.Text)
                                     {
 
-                                     
-                                            ShowPanel.AppendText(i + ":" 
-                                                + "Університет:  "
-                                                + univer.Name + "\n\n"
-                                                + "Факультет :"
-                                                + fac.NameOfFac + "\n\n"
-                                                + "Спеціальність:  "
-                                                + spec.Name + "\n\n"
-                                                + "Ваш бал : "
-                                                + Math.Round(rezult, 0) 
-                                                + "\n\nМінімальний бал :  "
-                                                + currentSpec.Minbal + "\n\n\n\n");
+                                   
+                                                ShowPanel.AppendText(i + ":"
+                                                   + "Університет:  "
+                                                   + univer.Name + "\n\n"
+                                                   + "Факультет :"
+                                                   + fac.NameOfFac + "\n\n"
+                                                   + "Спеціальність:  "
+                                                   + spec.Name + "\n\n"
+                                                   + "Ваш бал : "
+                                                   + Math.Round(rezult, 0)
+                                                   + "\n\nМінімальний бал :  "
+                                                   + currentSpec.Minbal + "\n\n\n\n");
+                                         
+                                            
+                                            
+                                                
+                                            
+                                       
+                                               
+                                          
+                                        
+
+                                   
+                                                    
+                                        
+                                    
+                                       
 
 
 
-                                            i++;
+
+
+                                        i++;
                                         
                                        
                                     }
@@ -276,7 +294,7 @@ namespace SanyaNewHopev2
                 }
             }
         }
-
+        
         private void ShowInfo()
         {
             MainDisplay.Clear();

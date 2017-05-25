@@ -35,10 +35,6 @@
             this.ZNO1Name = new System.Windows.Forms.TextBox();
             this.AtestatInput = new System.Windows.Forms.TextBox();
             this.ZNO3Name = new System.Windows.Forms.TextBox();
-            this.koef1 = new System.Windows.Forms.NumericUpDown();
-            this.AtestatKoef = new System.Windows.Forms.NumericUpDown();
-            this.koef3 = new System.Windows.Forms.NumericUpDown();
-            this.koef2 = new System.Windows.Forms.NumericUpDown();
             this.ZNO1Mark = new System.Windows.Forms.NumericUpDown();
             this.ZNO2Mark = new System.Windows.Forms.NumericUpDown();
             this.ZNO3Mark = new System.Windows.Forms.NumericUpDown();
@@ -81,10 +77,10 @@
             this.toolStripButton2 = new System.Windows.Forms.ToolStripButton();
             this.panel2 = new System.Windows.Forms.Panel();
             this.label3 = new System.Windows.Forms.Label();
-            ((System.ComponentModel.ISupportInitialize)(this.koef1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.AtestatKoef)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.koef3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.koef2)).BeginInit();
+            this.koef1 = new System.Windows.Forms.Label();
+            this.koef2 = new System.Windows.Forms.Label();
+            this.koef3 = new System.Windows.Forms.Label();
+            this.AtestatKoef = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.ZNO1Mark)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.ZNO2Mark)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.ZNO3Mark)).BeginInit();
@@ -166,55 +162,6 @@
             this.ZNO3Name.Size = new System.Drawing.Size(120, 22);
             this.ZNO3Name.TabIndex = 5;
             this.ZNO3Name.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // koef1
-            // 
-            this.koef1.DecimalPlaces = 2;
-            this.koef1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.koef1.InterceptArrowKeys = false;
-            this.koef1.Location = new System.Drawing.Point(19, 139);
-            this.koef1.Margin = new System.Windows.Forms.Padding(4);
-            this.koef1.Name = "koef1";
-            this.koef1.ReadOnly = true;
-            this.koef1.Size = new System.Drawing.Size(119, 29);
-            this.koef1.TabIndex = 11;
-            this.koef1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // AtestatKoef
-            // 
-            this.AtestatKoef.DecimalPlaces = 2;
-            this.AtestatKoef.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.AtestatKoef.Location = new System.Drawing.Point(521, 139);
-            this.AtestatKoef.Margin = new System.Windows.Forms.Padding(4);
-            this.AtestatKoef.Name = "AtestatKoef";
-            this.AtestatKoef.ReadOnly = true;
-            this.AtestatKoef.Size = new System.Drawing.Size(121, 29);
-            this.AtestatKoef.TabIndex = 12;
-            this.AtestatKoef.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // koef3
-            // 
-            this.koef3.DecimalPlaces = 2;
-            this.koef3.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.koef3.Location = new System.Drawing.Point(344, 139);
-            this.koef3.Margin = new System.Windows.Forms.Padding(4);
-            this.koef3.Name = "koef3";
-            this.koef3.ReadOnly = true;
-            this.koef3.Size = new System.Drawing.Size(121, 29);
-            this.koef3.TabIndex = 13;
-            this.koef3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // koef2
-            // 
-            this.koef2.DecimalPlaces = 2;
-            this.koef2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.koef2.Location = new System.Drawing.Point(177, 139);
-            this.koef2.Margin = new System.Windows.Forms.Padding(4);
-            this.koef2.Name = "koef2";
-            this.koef2.ReadOnly = true;
-            this.koef2.Size = new System.Drawing.Size(121, 29);
-            this.koef2.TabIndex = 14;
-            this.koef2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // ZNO1Mark
             // 
@@ -342,6 +289,10 @@
             // 
             this.panel1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.panel1.BackColor = System.Drawing.Color.DarkSeaGreen;
+            this.panel1.Controls.Add(this.AtestatKoef);
+            this.panel1.Controls.Add(this.koef3);
+            this.panel1.Controls.Add(this.koef2);
+            this.panel1.Controls.Add(this.koef1);
             this.panel1.Controls.Add(this.ZNO2Name);
             this.panel1.Controls.Add(this.Verdict);
             this.panel1.Controls.Add(this.rezultbox);
@@ -350,10 +301,6 @@
             this.panel1.Controls.Add(this.ZNO3Mark);
             this.panel1.Controls.Add(this.ZNO2Mark);
             this.panel1.Controls.Add(this.ZNO1Mark);
-            this.panel1.Controls.Add(this.koef2);
-            this.panel1.Controls.Add(this.koef3);
-            this.panel1.Controls.Add(this.AtestatKoef);
-            this.panel1.Controls.Add(this.koef1);
             this.panel1.Controls.Add(this.ZNO3Name);
             this.panel1.Controls.Add(this.AtestatInput);
             this.panel1.Controls.Add(this.ZNO1Name);
@@ -802,6 +749,46 @@
             this.label3.TabIndex = 112;
             this.label3.Text = "ВНЗ";
             // 
+            // koef1
+            // 
+            this.koef1.BackColor = System.Drawing.Color.White;
+            this.koef1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.koef1.Location = new System.Drawing.Point(13, 133);
+            this.koef1.Name = "koef1";
+            this.koef1.Size = new System.Drawing.Size(125, 36);
+            this.koef1.TabIndex = 95;
+            this.koef1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // koef2
+            // 
+            this.koef2.BackColor = System.Drawing.Color.White;
+            this.koef2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.koef2.Location = new System.Drawing.Point(171, 133);
+            this.koef2.Name = "koef2";
+            this.koef2.Size = new System.Drawing.Size(126, 36);
+            this.koef2.TabIndex = 96;
+            this.koef2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // koef3
+            // 
+            this.koef3.BackColor = System.Drawing.Color.White;
+            this.koef3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.koef3.Location = new System.Drawing.Point(343, 133);
+            this.koef3.Name = "koef3";
+            this.koef3.Size = new System.Drawing.Size(123, 36);
+            this.koef3.TabIndex = 97;
+            this.koef3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // AtestatKoef
+            // 
+            this.AtestatKoef.BackColor = System.Drawing.Color.White;
+            this.AtestatKoef.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.AtestatKoef.Location = new System.Drawing.Point(521, 133);
+            this.AtestatKoef.Name = "AtestatKoef";
+            this.AtestatKoef.Size = new System.Drawing.Size(122, 36);
+            this.AtestatKoef.TabIndex = 98;
+            this.AtestatKoef.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -849,10 +836,6 @@
             this.Text = "Абітпомагайко";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.Form1_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.koef1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.AtestatKoef)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.koef3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.koef2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.ZNO1Mark)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.ZNO2Mark)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.ZNO3Mark)).EndInit();
@@ -877,10 +860,6 @@
         private System.Windows.Forms.TextBox ZNO1Name;
         private System.Windows.Forms.TextBox AtestatInput;
         private System.Windows.Forms.TextBox ZNO3Name;
-        private System.Windows.Forms.NumericUpDown koef1;
-        private System.Windows.Forms.NumericUpDown AtestatKoef;
-        private System.Windows.Forms.NumericUpDown koef3;
-        private System.Windows.Forms.NumericUpDown koef2;
         private System.Windows.Forms.NumericUpDown ZNO1Mark;
         private System.Windows.Forms.NumericUpDown ZNO2Mark;
         private System.Windows.Forms.NumericUpDown ZNO3Mark;
@@ -923,6 +902,10 @@
         private System.Windows.Forms.ToolStripButton toolStripButton2;
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label koef1;
+        private System.Windows.Forms.Label AtestatKoef;
+        private System.Windows.Forms.Label koef3;
+        private System.Windows.Forms.Label koef2;
     }
 }
 
